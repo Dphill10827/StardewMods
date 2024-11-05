@@ -1,8 +1,8 @@
 ﻿{
   "Name": "Mod Update Menu",
-  "Author": "Cat",
-  "Version": "2.6.0-unofficial-1",
-  "Description": "Shows an in game menu on the title screen about mods that need updates.",
+  "Author": "Cat, Unofficial Update by dphill",
+  "Version": "2.6.0-unofficial-2",
+  "Description": "An unofficial update of Mod Update Menu for the latest version of Stardew Valley and SMAPI.",
   "UniqueID": "cat.modupdatemenu",
   "EntryDll": "ModUpdateMenu.dll",
   "MinimumApiVersion": "4.0.0",
