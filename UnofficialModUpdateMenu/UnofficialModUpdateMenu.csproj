@@ -9,6 +9,20 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="SMAPI.Toolkit" HintPath="$(GamePath)\smapi-internal\SMAPI.Toolkit.dll" />
+  <Reference Include="VdfConverter">
+    <HintPath>libs\VdfConverter.dll</HintPath> <!-- Adjust the path if needed -->
+  </Reference>
+</ItemGroup>
+
+  <ItemGroup>
+  <Reference Include="HtmlAgilityPack">
+    <HintPath>libs\HtmlAgilityPack.dll</HintPath> <!-- Adjust the path if needed -->
+  </Reference>
+</ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SMAPI.Toolkit" HintPath="$(GamePath)\smapi-internal\SMAPI.Toolkit.dll">
+    <Private>false</Private>
+    </Reference>
   </ItemGroup>
 </Project>
