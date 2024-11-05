@@ -1,7 +1,7 @@
 ﻿{
   "Name": "Mod Update Menu",
   "Author": "Cat, Unofficial Update by dphill",
-  "Version": "2.6.0-unofficial-2",
+  "Version": "2.7.0",
   "Description": "An unofficial update of Mod Update Menu for the latest version of Stardew Valley and SMAPI.",
   "UniqueID": "cat.modupdatemenu",
   "EntryDll": "ModUpdateMenu.dll",
